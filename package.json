@@ -1,5 +1,5 @@
 {
-  "name": "rudloff-starter",
+  "name": "contact-form-7-proxy-ip",
   "description": " Use HTTP_X_FORWARDED_FOR in Contact Form 7 e-mails ",
   "version": "0.1.0",
   "author": "Pierre Rudloff",

@@ -1,16 +1,13 @@
 <?php
-/**
- * ThemeTest class
- */
+
 namespace ContactFormProxyIp\Test;
 
 use ContactFormProxyIp\Main;
-use WP_Mock;
 use Mockery;
+use WP_Mock;
 
-class ThemeTest extends \PHPUnit_Framework_TestCase
+class MainTest extends \PHPUnit_Framework_TestCase
 {
-
     protected function setUp()
     {
         WP_Mock::setUp();

@@ -5,9 +5,11 @@ namespace ContactFormProxyIp;
 class Main
 {
     /**
-     * Add a new _forwarded_ip tag
+     * Add a new _forwarded_ip tag.
+     *
      * @param string $output HTML output
      * @param string $name   Tag name
+     *
      * @return string
      */
     public static function addSpecialTags($output, $name)

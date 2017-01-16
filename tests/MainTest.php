@@ -8,7 +8,6 @@ use WP_Mock;
 
 class MainTest extends \PHPUnit_Framework_TestCase
 {
-
     private $submissionMock;
 
     protected function setUp()

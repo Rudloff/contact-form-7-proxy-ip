@@ -4,7 +4,7 @@ namespace ContactFormProxyIp;
 
 class Main
 {
-    public static function addSpecialTags($output, $name, $html)
+    public static function addSpecialTags($output, $name)
     {
         $submission = \WPCF7_Submission::get_instance();
 
